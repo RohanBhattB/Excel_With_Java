@@ -2,7 +2,7 @@ package org.example;
 
 import java.sql.*;
 
-public class test {
+public class TableCreate {
     public static void main(String[] args) {
         // JDBC Connection Variables
         String jdbcURL = "jdbc:oracle:thin:@localhost:1521:XE"; // Change as per your DB
